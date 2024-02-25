@@ -1,6 +1,6 @@
 <div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
 <a href="https://www.appsmith.com?utm_source=github&amp;utm_medium=organic&amp;utm_campaign=readme" rel="nofollow">
-  <img src="/appsmithorg/appsmith/raw/release/static/appsmith_logo_white.png" alt="应用史密斯标志" width="350" style="max-width: 100%;">
+  <img src="https://github.com/appsmithorg/appsmith/raw/release/static/appsmith_logo_white.png" alt="应用史密斯标志" width="350" style="max-width: 100%;">
 </a>
 </p>
 <p align="center" dir="auto">
@@ -16,7 +16,7 @@
 </p>
 <hr>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">组织构建内部应用程序，例如仪表板、数据库 GUI、管理面板、审批应用程序、客户支持仪表板等，以帮助其团队执行日常操作。</font><font style="vertical-align: inherit;">Appsmith 是一个开源工具，可以快速开发这些内部应用程序。</font></font><a href="https://www.appsmith.com?utm_source=github&amp;utm_medium=organic&amp;utm_campaign=readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请在我们的网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上阅读更多内容</font><font style="vertical-align: inherit;">。</font></font></p>
-<p dir="auto"><a href="https://www.youtube.com/watch?v=NnaJdA1A11s?v=Dxe_NzdGzL4&amp;utm_source=github&amp;utm_medium=organic&amp;utm_campaign=readme/?target=_blank" rel="nofollow"><img src="/appsmithorg/appsmith/raw/release/static/images/appsmith-in-100-seconds.png" alt="100 秒内完成应用史密斯" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://www.youtube.com/watch?v=NnaJdA1A11s?v=Dxe_NzdGzL4&amp;utm_source=github&amp;utm_medium=organic&amp;utm_campaign=readme/?target=_blank" rel="nofollow"><img src="https://github.com/appsmithorg/appsmith/raw/release/static/images/appsmith-in-100-seconds.png" alt="100 秒内完成应用史密斯" style="max-width: 100%;"></a></p>
 <h2 tabindex="-1" dir="auto"><a id="user-content-installation" class="anchor" aria-hidden="true" tabindex="-1" href="#installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></h2>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有两种方法可以开始使用 Appsmith：</font></font></p>
 <ul dir="auto">
